@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:49:59.947011
+# -*- mode: mandoku-view -*-
 #+TITLE: 太上洞玄靈寶宣戒首悔眾罪保護經
-#+PROPERTY: DZID  DZ0460
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，6—900 三卷缺上卷 洞玄部戒律類
+#+DATE: 2015-08-28 23:50:00
+#+PROPERTY:  LASTPB <PB KR5b0144_SJB_002-060904b>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶¶¶<md:KR5b0144_HFL_002-012b>¶¶¶¶¶¶¶¶¶¶
+
